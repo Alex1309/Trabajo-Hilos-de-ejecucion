@@ -1,8 +1,8 @@
-# Trabajo-Hilos-de-ejecucion
+# Trabajo-Hilos-de-ejecución
 
 Trabajo hilos de ejecución
 Nombre: Alexandra lópez obando.
-Código: 1530267
+Código: 201530267
 
 
 Subo el punto 2, 3 y el 5. 
